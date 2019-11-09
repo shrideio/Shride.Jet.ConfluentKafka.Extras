@@ -1,0 +1,1 @@
+# Shride.Jet.ConfluentKafka.Extras
